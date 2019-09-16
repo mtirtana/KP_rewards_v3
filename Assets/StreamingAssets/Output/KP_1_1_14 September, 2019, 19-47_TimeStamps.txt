@@ -1,0 +1,6 @@
+PartcipantID:1
+RandID:1
+InitialTimeStamp:19-47-37-541
+block;trial;eventType;elapsedTime
+1;0;RewardScene;0.048
+1;1;Trial;2.264

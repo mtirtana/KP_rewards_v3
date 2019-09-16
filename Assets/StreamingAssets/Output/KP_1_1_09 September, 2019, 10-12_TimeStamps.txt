@@ -1,0 +1,13 @@
+PartcipantID:1
+RandID:1
+InitialTimeStamp:10-12-29-085
+block;trial;eventType;elapsedTime
+1;0;RewardScene;0.05
+1;1;Trial;2.168
+1;1;ParticipantSkip;3.942
+1;1;AnswerScreen;3.943
+1;1;TrialAnswer;3.98
+1;1;ParticipantAnswer;4.852
+1;1;InterTrialRest;4.881
+1;1;RewardScene;5.271
+1;2;Trial;7.331

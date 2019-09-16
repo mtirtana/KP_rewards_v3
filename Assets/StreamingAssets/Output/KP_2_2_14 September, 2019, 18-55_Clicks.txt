@@ -1,0 +1,4 @@
+PartcipantID:2
+RandID:2
+InitialTimeStamp:18-55-08-885
+block;trial;itemnumber(100=Reset);Out(0)/In(1)/Reset(2)/Other;time
